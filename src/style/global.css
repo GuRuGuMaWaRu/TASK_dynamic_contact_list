@@ -1,0 +1,10 @@
+body {
+  font-size: 1.2em;
+}
+
+.warning {
+  background-color: #f0ad4e;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  color: #fff;
+}

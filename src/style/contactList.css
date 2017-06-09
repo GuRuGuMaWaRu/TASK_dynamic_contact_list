@@ -1,0 +1,22 @@
+.contact-upper,
+.contact-lower {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-lower {
+  align-items: flex-end;
+  margin-top: 15px;
+}
+
+.contact-button {
+  font-size: 1em;
+}
+
+#dlt-btns {
+  margin-top: 50px;
+}
+
+#dlt-btns button {
+  float: none;
+}
