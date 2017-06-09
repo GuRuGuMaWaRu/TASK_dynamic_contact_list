@@ -1,3 +1,6 @@
+Follow this link to check this project online:
+https://gurugumawaru.github.io/TASK_dynamic_contact_list/
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
